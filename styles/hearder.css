@@ -26,13 +26,12 @@ header .container{
 }
 
 
-#info {
+#info ul{
     list-style: none;
 
     display: flex;
     flex-direction: column;
     gap: 16px;
-
     width: 280px;
 }
 
