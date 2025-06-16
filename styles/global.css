@@ -24,3 +24,13 @@ body{
     color: var(--text-color-secondary);
     background-color: var(--background-color);
 }
+
+a{
+    text-decoration: none;
+    color: inherit;  /* Tira a cor base do navegador e busca a do pai dele. */
+}
+
+a:hover{
+    color: var(--brand-color);
+    text-decoration: underline;
+}
