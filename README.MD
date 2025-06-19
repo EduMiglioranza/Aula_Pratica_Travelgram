@@ -1,4 +1,4 @@
-<h1 align="center">Portal de Notícias </h1>
+<h1 align="center">Perfil de Viagens </h1>
 
 <p align="center">
 Programa feito no quadro do curso Full-Stack da Rocketseat. <br/>
